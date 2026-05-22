@@ -1,0 +1,29 @@
+booster,carta,raridade,nome,menor,maior
+1,1,Common,Fury Rune,0.2,2.0
+1,2,Common,Yordle Explorer,0.2,4.9
+1,3,Common,Temptation,0.2,15.99
+1,4,Common,Buhru Captain,0.2,4.99
+1,5,Common,Thwonk!,0.2,15.0
+1,6,Common,Loyal Pup,0.2,5.17
+1,7,Common,Ribbon Dancer,0.2,6.99
+1,8,Uncommon,Recurve Bow,0.2,6.99
+1,9,Uncommon,Ruin Runner,0.3,14.99
+1,10,Uncommon,Hall of Legends,0.25,9.99
+1,11,Rare,Azir - Emperor of the Sands,0.55,8.5
+1,12,Rare,Assembly Rig,0.57,9.99
+1,13,Rare Foil,Lucian - Purifier,5.0,5.0
+1,14,Token/Rune,Token/Rune,,
+2,1,Common,Ribbon Dancer,0.2,6.99
+2,2,Common,Zaun Punk,0.2,3.99
+2,3,Common,Veteran Poro,0.2,4.99
+2,4,Common,Fury Rune,0.2,2.0
+2,5,Common,Cloth Armor,0.2,9.35
+2,6,Common,Sea Monkey,0.2,4.94
+2,7,Common,Feral Strength,0.2,4.99
+2,8,Uncommon,Warmog's Armor,0.3,14.9
+2,9,Uncommon,Beast Below,0.28,7.99
+2,10,Uncommon,Ruin Runner,0.3,14.99
+2,11,Epic,Blade of the Ruined King,16.83,99.99
+2,12,Rare,Azir - Emperor of the Sands,0.55,8.5
+2,13,Common Foil,Void Drone,6.99,6.99
+2,14,Token/Rune,Token/Rune,,
