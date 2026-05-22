@@ -35,7 +35,7 @@ EDICAO_CODIGO_PARA_NOME = {
 }
 QUANTIDADE_CARTAS = 100  # ajuste conforme necessário
 ABAS_POR_LOTE = 8     # quantas cartas abrir por vez com Ctrl+Enter
-TABS_ATE_PRIMEIRO_CARD = 37  # ajuste inicial para focar no primeiro card da lista
+TABS_ATE_PRIMEIRO_CARD = 39  # ajuste inicial para focar no primeiro card da lista
 PASSO_TAB_ENTRE_CARDS = 4  # tabs entre um card e outro na listagem
 TENTATIVAS_LEITURA_ABA = 4
 INTERVALO_TENTATIVAS_LEITURA = 1.0
