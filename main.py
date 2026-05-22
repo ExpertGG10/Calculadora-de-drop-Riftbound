@@ -51,12 +51,12 @@ PRODUCT_RULES = {
 # Quando os nomes reais forem conhecidos, basta substituir estas listas.
 MINI_DECK_OPTIONS = {
     "UNL": [
-        "Mini Deck Exemplo 1",
-        "Mini Deck Exemplo 2",
-        "Mini Deck Exemplo 3",
-        "Mini Deck Exemplo 4",
-        "Mini Deck Exemplo 5",
-        "Mini Deck Exemplo 6",
+        "Vi",
+        "Kha'Zix",
+        "Diana",
+        "Ivern",
+        "Jhin",
+        "Master Yi",
     ],
     "SFD": [
         "Mini Deck Exemplo 1",
